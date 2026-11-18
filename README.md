@@ -425,4 +425,4 @@ AI-generated findings must be independently reviewed and verified.
 
 ---
 
-\<p align="center">   \<b>TRACE-X | TEAM XENON\</b>   \<br/>   Turning fragmented intelligence into explainable investigative insights.   \<br/>\<br/>   \<a href="[https://github.com/pforpratyay/SIH](https://github.com/pforpratyay/SIH)">GitHub Repository\</a> |   \<a href="[https://sih-project-1-yrjs.onrender.com](https://sih-project-1-yrjs.onrender.com)">Live Application\</a> \</p>
+
